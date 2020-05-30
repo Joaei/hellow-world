@@ -1,2 +1,3 @@
 # hellow-world
-to learn how github is,
+要了解github的方式，
+更改readme
